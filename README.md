@@ -5,4 +5,4 @@ In this checkpoint, I was able to respond to the following questions in a 5 slid
  
  3) Why did you choose to learn web development? In this section, I mentioned my choice to be a web developer because of its high demand, creative freedom, and flexible career paths, whether in startups, remote work, or freelancing. 
 
-In summary, therefore, the web and web development is a field that rewards continuous learning, allowing one to turn ideas into real-world projects
+In summary, therefore, web and web development is a field that rewards continuous learning, allowing one to turn ideas into real-world projects
